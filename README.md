@@ -1,4 +1,2 @@
 # 11Dec
-cd NodeDemo<br/>
-npm i  <br/>
-npm start
+Hồ Công Cương 2080600193
